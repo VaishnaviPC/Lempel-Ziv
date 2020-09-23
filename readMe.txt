@@ -1,14 +1,3 @@
-/***
-
-@name Vaishnavi Poondi Chinnappa Narayanan 
-
-@studentID 801166750
-
-***/
-
-					ITCS 6114: Algorithms and Data Structures
-					Programming Project: LZW Compression
-
 # Introduction:
 
 The Lempel–Ziv–Welch (LZW) algorithm is a lossless data compression algorithm. LZW is an adaptive compression algorithm that does not assume prior knowledge of the input data distribution. This algorithm works well when the input data is sufficiently large and there is redundancy in the data. The algorithm is simple to implement and has the potential for very high throughput in hardware implementations.
